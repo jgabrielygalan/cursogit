@@ -1,3 +1,4 @@
 conf.txt
 build/
 cache/
+*.[ao]
